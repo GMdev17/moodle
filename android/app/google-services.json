@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:147251072467:android:832c5c332af67e85e07326",
         "android_client_info": {
-          "package_name": "com.moodle.app"
+          "package_name": "com.example.moodle"
         }
       },
       "oauth_client": [],
