@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147251072467",
+    "project_id": "moodle-3af4f",
+    "storage_bucket": "moodle-3af4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147251072467:android:832c5c332af67e85e07326",
+        "android_client_info": {
+          "package_name": "com.moodle.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNnjHFrkSjg-imppn-_HZVir5kgkz4DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDO2FEZyPdcCCfiYm9WbPFTS9xGY8j5tLw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>147251072467</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.moodle</string>
+	<key>PROJECT_ID</key>
+	<string>moodle-3af4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moodle-3af4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:147251072467:ios:f54b75e4c1188e52e07326</string>
+</dict>
+</plist>
